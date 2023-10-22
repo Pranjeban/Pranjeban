@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjeban Kara</h1>
 <h3 align="center">Revolutionizing tech with Cloud, DevOps, and CI/CD Expertise</h3>
 
-- 🌱 I’m currently learning **Ansible, Terraform, FastAPI, Kubernets**
+- 🌱 I’m currently learning **Ansible, FastAPI, Kubernets**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pranjeban](https://github.com/Pranjeban)
 

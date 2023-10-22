@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjeban Kara</h1>
 <h3 align="center">Revolutionizing tech with Cloud, DevOps, and CI/CD Expertise</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.xenonstack.com%2Fhubfs%2Fxenonstack-automation-tools-devops.png&tbnid=NQMMsX30bA4pSM&vet=12ahUKEwjTiprjoIqCAxWIuicCHYi_A0AQMygEegQIARB1..i&imgrefurl=https%3A%2F%2Fwww.xenonstack.com%2Fblog%2Fdevops-automation-tools&docid=shaGhh6L3Xv2YM&w=1281&h=720&q=devops%20automation%20image&ved=2ahUKEwjTiprjoIqCAxWIuicCHYi_A0AQMygEegQIARB1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LqAV0ReCchzrZBcL7DZcJAp-crZzeQ7hjA)">
 
 - 🌱 I’m currently learning **Ansible, Terraform, FastAPI, Kubernets**
 
